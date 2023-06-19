@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+#para{
+    border:15px solid blue;
+    width:300px;
+    background-color: lightblue;
+    padding:50px;
+    margin:20px;
+}
+div{
+    border:1px solid black;
+    width:auto;
+    height:auto;
+}
