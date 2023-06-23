@@ -1,14 +1,11 @@
 
 /* Your CSS Code here. */
-#para{
-    border:15px solid blue;
-    width:300px;
-    background-color: lightblue;
-    padding:50px;
-    margin:20px;
-}
+/*  */
 div{
-    border:1px solid black;
+    border:1px solid blue;
     width:300px;
 /* 	box-sizing:border-box; */
-	background-color:rgb(173, 216, 230);C
+	background-color:lightblue;
+	padding:50px;
+	margin:20px;
+}
